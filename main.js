@@ -4,4 +4,6 @@ function summ(a, b) {
   return a + b;
 }
 
-summ(10, 12)
+function summ(a, b) {
+  return a - b;
+}
